@@ -12,21 +12,5 @@ Tabla de contenidos:
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
 
 
+
 /* ----- Variables ----- */
-* {
-	/* colores primarios*/
-	--dark-cyan: hsl(158, 36%, 37%);
-	--cream-color: hsl(30, 38%, 92%);
-	/* colores neutrales*/
-	--very-dar-blue: hsl(212, 21%, 14%);
-	--dark-grayish-blue: hsl(228, 12%, 48%);
-	--white-color: hsl(0, 0%, 100%);
-	/* fuentes */
-	--fraunces-family: 'Fraunces', serif;
-	--montserrat-family: 'Montserrat', sans-serif;
-}
-
-
-/* ----------------------------- */
-/* ----- Estilos generales ----- */
-/* ----------------------------- */
